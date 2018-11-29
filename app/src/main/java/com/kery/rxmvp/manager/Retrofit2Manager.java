@@ -1,5 +1,7 @@
 package com.kery.rxmvp.manager;
 
+import android.util.Log;
+
 import com.kery.rxmvp.moudle.Api;
 
 import java.util.concurrent.TimeUnit;
