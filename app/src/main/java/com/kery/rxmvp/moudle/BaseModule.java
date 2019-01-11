@@ -16,7 +16,7 @@ import rx.Subscription;
  * Date: 2017/10/12.
  */
 
-public abstract class BaseModule<T> {
+public abstract class BaseModule {
 
 
     protected RequestXY mRequestXY;
